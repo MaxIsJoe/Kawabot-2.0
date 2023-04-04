@@ -1,6 +1,6 @@
 # Kawabot 2.0
 
-This is a very basic discord bot that uses ChatSonic instead of OpenAI's API simply because ChatSonic is better and they don't gatekeep users from around the world with stupid region restrictions and/or requirements.
+This is a very basic discord bot built ontop of discord.js that uses ChatSonic instead of OpenAI's API simply because ChatSonic is better and they don't gatekeep users from around the world with stupid region restrictions and/or requirements.
 
 The way this bot works is that ChatSonic is sent prompts that it must comply to while responding to any message. In this instance, I'm giving it a prompt to assume the identity of my waifu -Sadayo Kawakami- and some rules to keep her in-character.
 
