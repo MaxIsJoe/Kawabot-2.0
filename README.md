@@ -39,7 +39,7 @@ node index.js
 const prompts = [{}]
 ```
 
-All the magic starts within the `prompts` object. In order to make your character come to life, you must add at least 10 prompts that verbosely explain what ChatSonic should and shouldn't.
+All the magic starts within the `prompts` object inside index.js. In order to make your character come to life, you must add at least 10 prompts that verbosely explain what ChatSonic should and shouldn't.
 
 * Here's some guidelines on how to make the most out of prompts:
 
